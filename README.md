@@ -13,7 +13,7 @@
 
 ### About me
 * I am a BSc student at the University of Turku, majoring in Information and Communications Technology.
-* I'm a self-taught hobbyist programmer with nearly 10 years of experience in programming using various languages.
+* I'm a self-taught hobbyist programmer with 10 years of experience in programming using various languages.
 * Currently learning full-stack web development using React and Node.js in University of Helsinki's [Full Stack Open](https://fullstackopen.com/en) whenever I have time.
 
 
