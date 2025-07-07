@@ -9,9 +9,10 @@
 </div>
 
 ### About me
-* I am a BSc student at the University of Turku, majoring in Information and Communications Technology.
-* I'm a self-taught hobbyist programmer with 11 years of experience in programming using various languages.
-* Currently working as a software designer trainee.
+* I have a Bachelor of Science in Technology from the University of Turku, with a major in ICT. 
+* I am currently an M.Sc. student enrolled in the Software Engineering programme at the University of Turku.
+* I'm a self-taught hobbyist programmer with around 12 years of experience in programming using various languages.
+* I am also working as a software designer during my studies, primarily focusing on full-stack development mostly with ASP.NET Core and React.
 
 <br>
 
